@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 # Hi, I'm Erfan Jenab 👋
 
@@ -181,5 +181,5 @@ Actively involved in organizing and presenting Machine Learning educational sess
 
 ⭐ Thanks for visiting my profile!
 
-\</div>
+</div>
 
