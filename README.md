@@ -8,9 +8,9 @@
 
 *Growing Together! 🌱*
 
-\<br>
+<br>
 
-\<a href="[https://github.com/Erfanjenab](https://github.com/Erfanjenab)">
+<a href="[https://github.com/Erfanjenab](https://github.com/Erfanjenab)">
 &#x20; \<img src="[https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge\&logo=github)" />
 \</a>
 \<a href="[https://www.linkedin.com/in/erfan-jenab](https://www.linkedin.com/in/erfan-jenab)">
@@ -181,5 +181,4 @@ Actively involved in organizing and presenting Machine Learning educational sess
 
 ⭐ Thanks for visiting my profile!
 
-</div>
-
+\</div>
