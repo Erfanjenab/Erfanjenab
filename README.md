@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Erfan Jenab 👋
 
@@ -11,16 +11,16 @@
 <br>
 
 <a href="[https://github.com/Erfanjenab](https://github.com/Erfanjenab)">
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge\&logo=github)" />
-\</a>
-\<a href="[https://www.linkedin.com/in/erfan-jenab](https://www.linkedin.com/in/erfan-jenab)">
-&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />
-\</a>
-\<a href="mailto\:erfanjenab13866\@gmail.com">
-&#x20; \<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; <img src="[https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Erfanjenab-181717?style=for-the-badge &logo=github)" alt="GitHub">
+</a>
+<a href="[https://www.linkedin.com/in/erfan-jenab](https://www.linkedin.com/in/erfan-jenab)">
+&#x20;  <img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge &logo=linkedin)" alt="LinkedIn">
+</a>
+<a href="mailto :erfanjenab13866 @gmail.com">
+&#x20; <img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge &logo=gmail &logoColor=white)" alt="Email">
 </a>
 
-\</div>
+</div>
 
 ---
 
@@ -44,12 +44,12 @@ I continuously work on practical projects, explore new technologies, and improve
 
 ### Programming & Data Science
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,numpy,pandas,sklearn](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn)" />
-\</p>
+ <p>
+&#x20;  <img src="[https://skillicons.dev/icons?i=python,numpy,pandas,sklearn](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn)" alt="Programming and Data Science">
+ </p>
 
 | Technology   | Proficiency |
-| :----------- | :---------- |
+| ------------ | ----------- |
 | Python       | Advanced    |
 | NumPy        | Advanced    |
 | Pandas       | Advanced    |
@@ -57,12 +57,12 @@ I continuously work on practical projects, explore new technologies, and improve
 
 ### Machine Learning & Deep Learning
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=tensorflow,pytorch,opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)" />
-\</p>
+ <p>
+&#x20;  <img src="[https://skillicons.dev/icons?i=tensorflow,pytorch,opencv](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)" alt="Machine Learning and Deep Learning">
+ </p>
 
 | Technology         | Proficiency  |
-| :----------------- | :----------- |
+| ------------------ | ------------ |
 | TensorFlow / Keras | Intermediate |
 | OpenCV             | Beginner     |
 | PyTorch            | Beginner     |
@@ -70,12 +70,12 @@ I continuously work on practical projects, explore new technologies, and improve
 
 ### Web & Development Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,html,css,js](https://skillicons.dev/icons?i=git,github,html,css,js)" />
-\</p>
+ <p>
+&#x20;  <img src="[https://skillicons.dev/icons?i=git,github,html,css,js](https://skillicons.dev/icons?i=git,github,html,css,js)" alt="Development Tools">
+ </p>
 
 | Technology   | Proficiency  |
-| :----------- | :----------- |
+| ------------ | ------------ |
 | Git & GitHub | Intermediate |
 | HTML & CSS   | Intermediate |
 | JavaScript   | Beginner     |
@@ -84,13 +84,13 @@ I continuously work on practical projects, explore new technologies, and improve
 
 ## 🎯 Areas of Interest
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge](https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Computer_Vision-0078D4?style=for-the-badge](https://img.shields.io/badge/Computer_Vision-0078D4?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Object_Detection-00897B?style=for-the-badge](https://img.shields.io/badge/Object_Detection-00897B?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Data_Science-FF9800?style=for-the-badge](https://img.shields.io/badge/Data_Science-FF9800?style=for-the-badge)" />
-\</p>
+ <p align="center">
+&#x20;  <img src="[https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)" alt="Machine Learning">
+&#x20;  <img src="[https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge](https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge)" alt="Deep Learning">
+&#x20;  <img src="[https://img.shields.io/badge/Computer_Vision-0078D4?style=for-the-badge](https://img.shields.io/badge/Computer_Vision-0078D4?style=for-the-badge)" alt="Computer Vision">
+&#x20;  <img src="[https://img.shields.io/badge/Object_Detection-00897B?style=for-the-badge](https://img.shields.io/badge/Object_Detection-00897B?style=for-the-badge)" alt="Object Detection">
+&#x20;  <img src="[https://img.shields.io/badge/Data_Science-FF9800?style=for-the-badge](https://img.shields.io/badge/Data_Science-FF9800?style=for-the-badge)" alt="Data Science">
+ </p>
 
 ---
 
@@ -136,7 +136,7 @@ An object detection project using YOLO to identify and locate apples and oranges
 
 ### Sharif Machine Learning Community
 
-**Co-Lead & ML Presenter**
+**ML Core Team Member & Presenter**
 
 Actively involved in organizing and presenting Machine Learning educational sessions, sharing knowledge, and collaborating with other AI enthusiasts.
 
@@ -146,17 +146,17 @@ Actively involved in organizing and presenting Machine Learning educational sess
 
 ## 📊 GitHub Analytics
 
-\<div align="center">
+ <div align="center">
 
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Erfanjenab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Erfanjenab\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />
+ <img height="165" src="[https://github-readme-stats.vercel.app/api?username=Erfanjenab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Erfanjenab &show_icons=true &theme=tokyonight &hide_border=true &include_all_commits=true)" alt="GitHub Stats">
 
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanjenab&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanjenab\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+ <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanjenab&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanjenab &layout=compact &theme=tokyonight &hide_border=true)" alt="Top Languages">
 
-\<br>\<br>
+ <br> <br>
 
-\<img src="[https://streak-stats.demolab.com?user=Erfanjenab&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Erfanjenab\&theme=tokyonight\&hide_border=true)" />
+ <img src="[https://streak-stats.demolab.com?user=Erfanjenab&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Erfanjenab &theme=tokyonight &hide_border=true)" alt="GitHub Streak">
 
-\</div>
+ </div>
 
 ---
 
@@ -169,11 +169,21 @@ Actively involved in organizing and presenting Machine Learning educational sess
 
 ## 📫 Connect With Me
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/erfan-jenab](https://www.linkedin.com/in/erfan-jenab)">     \<img src="[https://img.shields.io/badge/LinkedIn-Erfan_Jenab-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Erfan_Jenab-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto\:erfanjenab13866\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://t.me/erfanjenab86](https://t.me/erfanjenab86)">     \<img src="[https://img.shields.io/badge/Telegram-@erfanjenab86-26A5E4?style=for-the-badge&logo=telegram](https://img.shields.io/badge/Telegram-@erfanjenab86-26A5E4?style=for-the-badge\&logo=telegram)" />   \</a> \</p>
+ <p align="center">
+
+ <a href="[https://www.linkedin.com/in/erfan-jenab](https://www.linkedin.com/in/erfan-jenab)">
+&#x20;  <img src="[https://img.shields.io/badge/LinkedIn-Erfan_Jenab-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Erfan_Jenab-0A66C2?style=for-the-badge &logo=linkedin)" alt="LinkedIn">
+ </a>
+
+ <a href="mailto :erfanjenab13866 @gmail.com">    <img src="[https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge &logo=gmail &logoColor=white)" alt="Email">  </a>
+
+ <a href="[https://t.me/erfanjenab86](https://t.me/erfanjenab86)">    <img src="[https://img.shields.io/badge/Telegram-@erfanjenab86-26A5E4?style=for-the-badge&logo=telegram](https://img.shields.io/badge/Telegram-@erfanjenab86-26A5E4?style=for-the-badge &logo=telegram)" alt="Telegram">  </a>
+
+ </p>
 
 ---
 
-\<div align="center">
+ <div align="center">
 
 ### "Growing Together!" 🌱
 
@@ -181,4 +191,4 @@ Actively involved in organizing and presenting Machine Learning educational sess
 
 ⭐ Thanks for visiting my profile!
 
-\</div>
+ </div>
