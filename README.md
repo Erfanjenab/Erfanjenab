@@ -18,7 +18,7 @@
 \</a>
 \<a href="mailto\:erfanjenab13866\@gmail.com">
 &#x20; \<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-\</a>
+</a>
 
 \</div>
 
